@@ -1,0 +1,44 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('https://images.pexels.com/photos/2868665/pexels-photo-2868665.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  font-family: 'Kaushan Script', cursive !important;
+  font-family: 'Alfa Slab One', cursive !important;
+  font-family: 'Poiret One', cursive !important;
+  font-size: 25px;
+}
+
+.col-xs-6 {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  margin: 20px 20px 85px 20px;
+  border-radius: 25px;
+}
+
+h1 {
+  font-family: "Kaushan Script";
+}
+
+h2 {
+  font-family: "Alfa Slab One";
+}
+
+.home-page-button {
+  margin-top: 15px;
+  font-size: 30px;
+}
+
+img card-img-top {
+  width: 400px;
+}
+
+.card {
+  margin-bottom: 15px;
+}
